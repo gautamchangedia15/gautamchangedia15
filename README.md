@@ -12,8 +12,8 @@ I'm a passionate software developer with a strong foundation in **C++**, **JavaS
 - **Current Learning**: Next.js, Tailwind CSS
 
 ### 🚀 Projects
-- **LegalConnect[https://github.com/gautamchangedia15/LegalConnect]**: Led the backend development for a platform connecting clients with legal service providers, featuring profile management, reviews, and integrated chat and video calling functionalities.
-- **Newsify[https://github.com/gautamchangedia15/Newsify]**: A news app that categorizes news by Technology, Sports, and Science, developed using React components and Context API.
+- **[LegalConnect](https://github.com/gautamchangedia15/LegalConnect)**: Led the backend development for a platform connecting clients with legal service providers, featuring profile management, reviews, and integrated chat and video calling functionalities.
+- **[Newsify](https://github.com/gautamchangedia15/Newsify)**: A news app that categorizes news by Technology, Sports, and Science, developed using React components and Context API.
 
 ### 🤓 Fun Fact
 Once, I spent an entire day debugging an issue in an API call—only to realize I’d forgotten to add `withCredentials: true` in Axios! Lesson learned: always double-check the small details.
@@ -26,4 +26,4 @@ When I’m not coding, I’m out exploring—whether it’s traveling to new pla
 
 ### 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/gautam-changedia-43070815b/)
-[![GitHub](https://img.shields.io/badge/Email-Profile-black)](gautamchangedia2003@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Profile-black)](mailto:gautamchangedia2003@gmail.com)
