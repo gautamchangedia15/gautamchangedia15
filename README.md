@@ -14,7 +14,6 @@ I'm a passionate software developer with a strong foundation in **C++**, **JavaS
 ### 🚀 Projects
 - **LegalConnect[https://github.com/gautamchangedia15/LegalConnect]**: Led the backend development for a platform connecting clients with legal service providers, featuring profile management, reviews, and integrated chat and video calling functionalities.
 - **Newsify[https://github.com/gautamchangedia15/Newsify]**: A news app that categorizes news by Technology, Sports, and Science, developed using React components and Context API.
-- 
 
 ### 🤓 Fun Fact
 Once, I spent an entire day debugging an issue in an API call—only to realize I’d forgotten to add `withCredentials: true` in Axios! Lesson learned: always double-check the small details.
